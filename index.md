@@ -1,8 +1,9 @@
-<div style="text-align:center; margin-top:40px;">
+---
+title: Home
+---
 
-# Gatil Yadav  
-### Building resilient infrastructure that scales.
+# Welcome to My Site
 
-[LinkedIn](https://linkedin.com/in/gatilyadav) | [GitHub](https://github.com/gatil25)
+Hi! I’m Gatil. This site showcases my projects, blog posts, and experiments with GitHub Pages.  
 
-</div>
+![My Image](assets/HeadShot_linkedin.jpg)
