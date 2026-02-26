@@ -1,82 +1,102 @@
 # Gatil Yadav
 
-## 👨‍💻 About Me
+### Infrastructure Engineer | AWS Certified Solutions Architect – Associate
 
-Infrastructure Engineer with a strong foundation in networking and hands-on experience across on-premises and cloud environments. Experienced in network design, routing, switching, load balancing, and cloud connectivity. Passionate about building reliable, scalable, and high-performance infrastructure.
+Designing, scaling, and securing cloud and network infrastructure that powers modern distributed systems.
+
+📍 San Jose, CA  
+🔗 [LinkedIn](https://linkedin.com/in/gatilyadav) • [GitHub](https://github.com/gatil25)
+
+---
+
+## 🚀 Professional Summary
+
+Infrastructure Engineer with strong expertise in cloud networking, production support, and infrastructure automation. Experienced in supporting enterprise AWS networking environments, troubleshooting distributed systems, and building scalable, secure hybrid infrastructure.
+
+---
+
+## 📜 Certifications
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**  
+Amazon Web Services
+
+---
+
+## 🛠 Technical Expertise
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
 ### Cloud Support Engineer I – Network Devices  
-**Amazon Web Services (AWS)** | Mar 2025 – Present | San Jose, CA  
+**Amazon Web Services (AWS)**  
+*Mar 2025 – Present | San Jose, CA*
 
-- Provide technical support and DevOps solutions for AWS enterprise networking customers.
-- Specialize in S2S VPN, Direct Connect, Transit Gateway, Outposts, and CloudWAN.
-- Troubleshoot EKS networking (VPC, routing, security groups, load balancers).
-- Review and debug Terraform-based Infrastructure-as-Code deployments.
-- Perform packet captures, log analysis, and topology reviews for complex escalations.
+- Deliver advanced technical support for AWS networking services including S2S VPN, Direct Connect, Transit Gateway, Outposts, and CloudWAN.
+- Troubleshoot Amazon EKS networking across VPC, routing tables, security groups, and load balancers.
+- Debug Terraform Infrastructure-as-Code deployments for reliable cloud provisioning.
+- Perform packet captures, log analysis, and topology deep dives to resolve complex escalations.
+- Collaborate cross-functionally to improve operational excellence and customer outcomes.
 
 ---
 
-### Sr. Network and Systems Support Engineer  
-**Enphase Energy** | Jan 2020 – Feb 2025 | Fremont, CA  
+### Sr. Network & Systems Support Engineer  
+**Enphase Energy**  
+*Jan 2020 – Feb 2025 | Fremont, CA*
 
-- Managed enterprise network infrastructure (routers, switches, firewalls, servers).
-- Implemented secure VPN and MFA solutions.
-- Upgraded infrastructure with next-gen firewalls and monitoring tools.
-- Optimized TCP/IP, DHCP, DNS configurations.
-- Created network documentation and mentored junior engineers.
+- Managed enterprise routers, switches, firewalls, and servers in production environments.
+- Engineered secure VPN and MFA-based remote access solutions.
+- Upgraded infrastructure with next-generation firewalls and monitoring tools.
+- Optimized TCP/IP, DHCP, DNS, and routing configurations.
+- Created detailed network documentation and mentored junior engineers.
 
 ---
 
 ### Support Engineer  
-**XRCloud.net Inc.** | Mar 2019 – Dec 2019 | Covina, CA  
+**XRCloud.net Inc.**  
+*Mar 2019 – Dec 2019 | Covina, CA*
 
-- Managed firmware updates and cloud infrastructure deployments.
-- Worked with Apache CloudStack and VMware vCenter.
-- Performed data center installations and network migrations.
-
----
-
-### Junior Application Engineer  
-**InMata Solutions / Broadcom** | Jun 2018 – Mar 2019 | Irvine, CA  
-
-- Programmed and supported Network Interface Cards (NICs).
-- Supported OEM clients including Dell, HP, Lenovo, and Supermicro.
-- Installed and configured Cisco switches and servers.
+- Deployed cloud networks using Apache CloudStack and VMware vCenter.
+- Executed firmware updates and infrastructure migrations with minimal downtime.
+- Installed and configured servers, switches, and storage systems.
 
 ---
 
 ## 🎓 Education
 
 **M.S. Electrical Engineering**  
-California State University, Long Beach | 2017  
+California State University, Long Beach  
 
 **B.S. Electrical & Instrumentation Engineering**  
-DIT University, India | 2014  
+DIT University  
 
 ---
 
-## 🛠 Technical Skills
-
-**Networking:** TCP/IP, BGP, OSPF, MPLS, VxLAN, IPSec, VLANs, STP, VTP  
-**Cloud & Platforms:** AWS, Linux  
-**Infrastructure as Code:** Terraform, Ansible  
-**Container Networking:** Docker, Kubernetes  
-**Monitoring:** Nagios, Splunk, Prometheus  
-**Hardware:** Cisco, Aruba, Palo Alto, Juniper, Meraki  
-
----
-
-## 🚀 Focus Areas
+## 🎯 Focus Areas
 
 - Cloud Networking Architecture  
 - Infrastructure Automation  
 - Production Support & Incident Management  
-- Scalable & Secure Network Design  
-- DevOps-driven Infrastructure  
+- Scalable & Secure System Design  
 
 ---
 
-> Designing, scaling, and securing infrastructure that powers modern applications.
+## 🚧 Projects (Work In Progress)
+
+Currently building and documenting hands-on infrastructure and cloud automation projects, including:
+
+- Terraform-based AWS VPC and Transit Gateway deployments  
+- Kubernetes networking lab environments  
+- Infrastructure monitoring stack using Prometheus & Grafana  
+- CI/CD workflows for infrastructure provisioning  
+
+📌 Projects will be published soon — stay tuned.
+
+---
+
+> Building resilient infrastructure that scales silently and performs relentlessly.
